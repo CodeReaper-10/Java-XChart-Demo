@@ -23,4 +23,4 @@ https://spring.io/tools
 4. Run as Java Application
 
 # Designed With 😇
-![Java](https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite)
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://knowm.org/wp-content/uploads/xchartlogo.png">&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png">
